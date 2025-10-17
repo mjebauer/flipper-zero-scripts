@@ -1,6 +1,7 @@
 REM Copyright (c) 2025 Manuel Jebauer
 REM MIT License — see LICENSE file or https://opensource.org/licenses/MIT
 REM Description: Creates Windows God-Mode on Desktop 
+REM Use at own risk.
 DELAY 2000
 GUI r
 DELAY 2000
