@@ -1,0 +1,14 @@
+REM Copyright (c) 2025 Manuel Jebauer
+REM MIT License — see LICENSE file or https://opensource.org/licenses/MIT
+REM Description: Creates Windows God-Mode on Desktop 
+DELAY 2000
+GUI r
+DELAY 2000
+STRING cmd
+ENTER
+DELAY 2000
+STRING mkdir "%USERPROFILE%\Desktop\GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}"
+ENTER
+DELAY 2000
+STRING exit
+ENTER
