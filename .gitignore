@@ -1,0 +1,20 @@
+# Logs / Temporäre Dateien
+*.log
+*.tmp
+*.bak
+*.local
+*.zip
+*.tar.gz
+
+# Editor / OS
+.DS_Store
+*.swp
+
+# Python / Pycache
+__pycache__/
+*.pyc
+
+# Sensitive files (nicht hochladen)
+secrets.txt
+*.key
+*.pem
